@@ -12,7 +12,7 @@ Hmm, a cribbage board sounds like it would fit the bill nicely.
 
 ### Tools
 
-Epilog Helix 60Ws
+Epilog Helix 60W
 
 ### Materials
 
@@ -20,7 +20,7 @@ Some type of wood?  TBD.
 
 ### Design
 
-[Cribbage board](cribbage.svg)
+[Cribbage board](cribbage/cribbage.svg)
 
 ### Process
 
